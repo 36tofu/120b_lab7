@@ -1,11 +1,13 @@
-/*	Author: lab
- *  Partner(s) Name: 
- *	Lab Section:
- *	Assignment: Lab #  Exercise #
- *	Exercise Description: [optional - include for your own benefit]
+/* Author:Christopher Chen
+ * Partner(s) Name (if applicable):  
+ * Lab Section:21
+ * Assignment: Lab #7  Exercise #3
+ * Exercise Description: [optional - include for your own benefit]
  *
- *	I acknowledge all content contained herein, excluding template or example
- *	code, is my own original work.
+ * I acknowledge all content contained herein, excluding template or example
+ * code, is my own original work.
+ *
+ *  Demo Link:https://www.youtube.com/watch?v=jH6glrOWlWc
  */
 #include <avr/io.h>
 #ifdef _SIMULATE_
